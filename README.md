@@ -1,2 +1,2 @@
-# Collision-Detection-Algorithm
-The code behind the collide() function!
+# p5.play-boilerplate
+Boiler plate for p5.play
